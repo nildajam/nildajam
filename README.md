@@ -5,7 +5,7 @@
   
 - 🔎 Interesada en encontrar mi primer empleo en IT, donde pueda capacitarme y crecer como developer.
 - 🎓 Actualmente realizo el curso #YoProgramo.
-- 🌱 Estoy aprendiendo Angular. 
+- 🌱 Estoy aprendiendo Java. 
 
 ### 🛠️ Poseo conocimientos
 
