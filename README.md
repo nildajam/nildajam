@@ -4,7 +4,7 @@
 ### 👩🏻‍💻 Sobre mí
   
 - 🔎 Interesada en encontrar mi primer empleo en IT, donde pueda capacitarme y crecer como developer.
-- 🎓 Actualmente realizo el curso #YoProgramo.
+- 🎓 Actualmente realizo el curso #YoProgramo, Oracle Next Education "ONE" y Codo a Codo.
 - 🌱 Estoy aprendiendo Java. 
 
 ### 🛠️ Poseo conocimientos
