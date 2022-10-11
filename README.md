@@ -25,16 +25,18 @@
 </div>
 <div>
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=Salesforce&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-0081CB?style=flat&logo=mysql&logoColor=white">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white">
-<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
 </div>
 <div>
+<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/VS_Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=flat&logo=apache-netbeans-ide&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white">
