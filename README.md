@@ -6,9 +6,9 @@
 🔎 Interesada en encontrar mi primer empleo en IT, donde pueda capacitarme y crecer como developer.
 
 ### 🎓 Actualmente realizo los cursos
-- Java Full Stack. #YoProgramo 2º Etapa,
-- Java Full Stack. Codo a Codo y,
-- Java Full Stack. ONE “Oracle Next Education”
+- Java Full Stack. Codo a Codo,
+- Java Full Stack. Oracle Next Education y,
+- Salesforce & Salesforce Industries.
 
 ### 🛠️ Poseo conocimientos
 
