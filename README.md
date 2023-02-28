@@ -1,16 +1,14 @@
-<h2>Hola soy Nilda 👋 </h2>
+<h2>Hi, I'm Nilda 👋 </h2>
 
 
-### 👩🏻‍💻 Sobre mí
+### 👩🏻‍💻 About
   
-🔎 Interesada en encontrar mi primer empleo en IT, donde pueda capacitarme y crecer como developer.
+🔎 Interested in finding my first job in IT, where i can train and grow as a developer.
 
-### 🎓 Actualmente realizo los cursos
-- Java Full Stack. Codo a Codo,
-- Java Full Stack. Oracle Next Education y,
-- Salesforce & Salesforce Industries.
+### 📖 Education
+🎓 Civil Engineering
 
-### 🛠️ Poseo conocimientos
+### 🛠️ Knowledge
 
 <div>
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
@@ -46,7 +44,7 @@
 </div>
 
 
-### 🌎 Contacto
+### 🌎 Contact
 <div>
 
 [![linkein](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nildajam/)](https://www.linkedin.com/in/nildajam/)&nbsp;
